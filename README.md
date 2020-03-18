@@ -1,2 +1,2 @@
 # torch_first
-test
+My own first pytorch playground just for fun.
